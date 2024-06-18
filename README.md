@@ -1,1 +1,1 @@
-# Gerador-de-senha
+# Gerador-de-senhas-3B
